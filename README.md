@@ -7,8 +7,7 @@
 
 ## 🖼️ Gameplay / Captura del Juego
 
-![Wumpus World Preview](src/resources/wumpus.png)
-*(Nota: Puedes reemplazar esta imagen con una captura de pantalla real de tu tablero `screenshot.png` si lo deseas)*
+![Wumpus World Preview](src/resources/wampus.png)
 
 ---
 
@@ -39,6 +38,8 @@ The application visualizes the logical rules of the environment, allowing users 
 ---
 
 ## 🇪🇸 Español
+
+![Wumpus World Preview](src/resources/wampus.png)
 
 ### 📖 Sobre el Proyecto
 
@@ -77,3 +78,4 @@ This project was developed by: / Este proyecto fue desarrollado por:
 ### 🔗 Links
 
 * **Web Page**: [https://pintomultimedia2002.github.io/wumpus-world-javascript/](https://pintomultimedia2002.github.io/wumpus-world-javascript/)
+
